@@ -1,12 +1,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Sistem Kepegawaian PT.Luhur Boedi</title>
+<title>Sistem Kepegawaian PT.FAREL KATERING</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 <div id="main_container">
 <div id="header">
-<h1> Sistem Kepegawaian PT.Luhur Boedi <br></h1>
+<h1> Sistem Kepegawaian PT.FAREL KATERING<br></h1>
 </div>
 <div id="navigation">
 	<a href="index.php">Home</a> 
