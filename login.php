@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>UAS PEMROGAMAN WEB - 1</title>
+	<title>UAS PEMROGAMAN WEB - 2</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
