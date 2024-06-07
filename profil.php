@@ -1,3 +1,3 @@
 <?php
-echo "Afririko"
+echo "Afririko Suprayatna"
 ?>;
